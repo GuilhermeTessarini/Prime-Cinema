@@ -1,4 +1,4 @@
-Projeto ReactJS: Prime Cinema
+ReactJS Project: Prime Cinema
 
 This ReactJS project is a simple application that consumes The Movie DB API to display the latest released movies. Additionally, the application allows users to create a list of favorite movies, with the ability to add and remove movies from the list.
 
